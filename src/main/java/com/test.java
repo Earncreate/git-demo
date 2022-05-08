@@ -7,5 +7,6 @@ public class test {
 
         System.out.println("切入");
         System.out.println("test");
+        System,out.println("pull 拉取到本地库")
     }
 }
